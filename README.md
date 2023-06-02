@@ -34,34 +34,34 @@ Sorcer Striker, known in Japan as Mahou Daisakusen is a vertically scrolling sho
 
 - **Program Controls**
 
-  **ESC** quit game (on the menu), in-game goes to menu
+  **ESC** - quit game (on the menu), in-game goes to menu
 
-  **F1** Show colliders
+  **F1** - Show colliders
 
-  **F2** God mode
+  **F2** - God mode
 
-  **F3** Insta win
+  **F3** - Insta win
 
-  **F4** Insta Lose
+  **F4** - Insta Lose
 
-  **F5** Camera lock
+  **F5** - Camera lock
 
-  **W** move up camera
+  **W** - move up camera
  
-  **A** move left camera
+  **A** - move left camera
 
-  **S** move down camera
+  **S** - move down camera
 
-  **D** move right camera
+  **D** - move right camera
 
 - **Combat controls:**
 
-  **Arrow UP** (move up)
+  **Arrow UP** - move up
 
-  **Arrow DOWN** (move down)
+  **Arrow DOWN** - move down
 
-  **Arrow LEFT** (move left) 
+  **Arrow LEFT** - move left 
 
-  **Arrow RIGHT** (move right) 
+  **Arrow RIGHT** - move right 
 
-  **Space interact**(scenes), in-game shoot
+  **Space interact**(scenes) - in-game shoot
